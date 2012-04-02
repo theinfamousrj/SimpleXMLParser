@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person>
+		<first>Christopher</first>
+		<last>Jones</last>
+		<age>22</age>
+	</person>
+	<person status="billionaire">
+		<first>William</first>
+		<last>Gates</last>
+		<age>46</age>
+	</person>
+	<person status="billionaire">
+		<first>Steve</first>
+		<last>Jobs</last>
+		<age>40</age>
+	</person>
+</people>
